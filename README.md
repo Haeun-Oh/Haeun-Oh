@@ -1,4 +1,8 @@
-- 👀 I’m interested in Recommendation System
-- 🌱 I’m currently learning Deep-Learning
+👀 I’m interested in 
+- Machine Learning
+- MLOps
 
-
+🌱 I’m currently learning
+- formating
+- linting
+- Kubernates
