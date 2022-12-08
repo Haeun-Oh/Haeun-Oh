@@ -1,2 +1,2 @@
 - 👀 I’m interested in **Machine Learning** and **MLOps**.
-- 🌱 I’m currently learning **mlflow** and **kubeflow**.
+- 🌱 I’m currently learning **k8s** and **docker**.
